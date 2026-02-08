@@ -38,11 +38,3 @@ The goal was to move beyond simple spreadsheets. FinSage creates a **"living con
 4.  **Export:** Findings are exported to a PDF for a permanent audit trail.
 
 ---
-
-
-
-## 🔧 Installation & Setup
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/yourusername/FinSage-AI.git](https://github.com/yourusername/FinSage-AI.git)
